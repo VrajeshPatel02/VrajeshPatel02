@@ -1,6 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vrajesh Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Visualization" width="400" src="https://cdn.dribbble.com/users/904433/screenshots/3304535/media/52e7fe830132a4d4d6ce7197cb1811c6.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrajeshpatel02&label=Profile%20views&color=0e75b6&style=flat" alt="vrajeshpatel02" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
